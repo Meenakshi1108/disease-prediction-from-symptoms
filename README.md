@@ -14,11 +14,14 @@ The following algorithms have been explored in code:
 - KNN
 - Probabilistic Models
 
+[Report](Report.pdf)
+
 ## Usage
 Please make sure to install all dependencies from the `app` folder using the following commands:
 
 ```bash
 pip install -r requirements.txt
 python app.py
+```
 
-[Report](Report.pdf)
+
