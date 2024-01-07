@@ -14,8 +14,9 @@ The following algorithms have been explored in code:
 - KNN
 - Probabilistic Models
 
-## Report
-[Report](Report.pdf)
+## UI Implementation
+- Implemented a simple user interface to receive input and display the top 3 predicted diseases.
+- The model used is Random Forest, as it showed better performance in our evaluations.
 
 ## Usage
 Please make sure to install all dependencies from the `app` folder using the following commands:
@@ -25,4 +26,4 @@ pip install -r requirements.txt
 python app.py
 ```
 
-
+Please note: This project is only for educational purposes.
