@@ -14,6 +14,7 @@ The following algorithms have been explored in code:
 - KNN
 - Probabilistic Models
 
+## Report
 [Report](Report.pdf)
 
 ## Usage
