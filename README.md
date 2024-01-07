@@ -20,3 +20,5 @@ Please make sure to install all dependencies from the `app` folder using the fol
 ```bash
 pip install -r requirements.txt
 python app.py
+
+[Report](Report.pdf)
