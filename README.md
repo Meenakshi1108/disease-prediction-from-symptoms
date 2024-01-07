@@ -26,4 +26,4 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Please note: This project is only for educational purposes.
+Please Note: This project is only for educational purposes.
