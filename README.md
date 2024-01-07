@@ -17,7 +17,8 @@ The following algorithms have been explored in code:
 ## UI Implementation
 - Implemented a simple user interface to receive input and display the top 3 predicted diseases.
 - The model used is Random Forest, as it showed better performance in our evaluations.
-
+## Report
+[Report](Report.pdf)
 ## Usage
 Please make sure to install all dependencies from the `app` folder using the following commands:
 
